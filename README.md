@@ -1,13 +1,39 @@
-import SoftwareDeveloper from 'teddyomondi';
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
+</p>
+
+```js
+import SoftwareDeveloper from 'denzvergus';
 
 class Bio extends SoftwareDeveloper {
-  name     = 'Teddy Omondi';
+  name     = 'Denis Kipchirchir';
   title    = 'Software Developer';
   location = 'Nairobi, Kenya';
 }
 
 class Skills extends SoftwareDeveloper {
-  languages  = ['JavaScript', 'Dart', 'Python'];
+  languages  = ['JavaScript', 'PHP', 'Python'];
   databases  = ['MySQL', 'MongoDB'];
   frameworks = [ 'Vue', 'Angular', 'Express'];
 }
+```
+----
+
+![denzVergus](https://github-readme-stats.vercel.app/api?username=denzVergus&count_private=true&show_icons=true&theme=onedark)
+
+
+
+<!--
+**TrekHub/TrekHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
