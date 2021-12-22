@@ -1,16 +1,13 @@
-### Hi there 👋
+import SoftwareDeveloper from 'teddyomondi';
 
-<!--
-**denzVergus/denzVergus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+class Bio extends SoftwareDeveloper {
+  name     = 'Teddy Omondi';
+  title    = 'Software Developer';
+  location = 'Nairobi, Kenya';
+}
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+class Skills extends SoftwareDeveloper {
+  languages  = ['JavaScript', 'Dart', 'Python'];
+  databases  = ['MySQL', 'MongoDB'];
+  frameworks = [ 'Vue', 'Angular', 'Express'];
+}
