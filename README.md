@@ -3,7 +3,7 @@
 </p>
 
 ```js
-import SoftwareDeveloper from 'denzvergus';
+import SoftwareDeveloper from 'deniskipchirchir';
 
 class Bio extends SoftwareDeveloper {
   name     = 'Denis Kipchirchir';
@@ -14,7 +14,7 @@ class Bio extends SoftwareDeveloper {
 class Skills extends SoftwareDeveloper {
   languages  = ['JavaScript', 'PHP', 'Python'];
   databases  = ['MySQL', 'MongoDB'];
-  frameworks = [ 'Vue', 'Angular', 'Express'];
+  frameworks = [ 'Vue', 'Angular', 'React'];
 }
 ```
 ----
@@ -24,7 +24,7 @@ class Skills extends SoftwareDeveloper {
 
 
 <!--
-**TrekHub/TrekHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**denzVergus/denzVergus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
